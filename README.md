@@ -13,15 +13,16 @@ This repository contains codes for the analysis presented in the NeurIPS 2019 pr
 **Patch-seq dataset representations**
 
 3D latent space representations of 1,518 cells in the Transcriptomic and electrophysiology dataset, colored by the ground truth cell type annotation obtained using autoencoders in the 
- - Uncoupled setting: $\lambda$=0.0
+ - Uncoupled setting: Coupling strenth = 0.0
 
 ![$\lambda$=0.0 Transcriptomics representations](./docs/T_z_0-0.gif)
 ![$\lambda$=0.0 Electrophysiology representations](./docs/E_z_0-0.gif)
 
- - Coupled setting: $\lambda$=1.0
+ - Coupled setting: Coupling strength = 1.0
 
 ![$\lambda$=1.0 Transcriptomics representations](./docs/T_z_1-0.gif)
 ![$\lambda$=1.0 Electrophysiology representations](./docs/E_z_1-0.gif)
 
 **Link to poster**
+
 [Poster](https://github.com/AllenInstitute/coupledAE/blob/master/docs/Gala_NeurIPS_2019_poster.pdf)
