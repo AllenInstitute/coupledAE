@@ -8,6 +8,6 @@ Recent developments in high throughput profiling of individual neurons have spur
 
 **About this repository**
 
-This repository contains codes and data files for the analysis presented in the NeurIPS 2019 proceedings. 
+This repository contains codes for the analysis presented in the NeurIPS 2019 proceedings. 
 
 [Poster](./Gala_NeurIPS_2019_poster.pdf)
